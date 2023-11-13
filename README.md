@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @anastasia-bazaeva
-- 👀 I’m interested in arts, music and physics
-- 🌱 I’m currently learning in Yandex.Praktikum on a web-developer course
-- 💞️ I’m looking to collaborate on anything new for me (it's like everything)
-- 📫 How to reach me @cosm0nastya in telegram
+- 👋 Hi, I’m Anastasia Bazaeva
+- 📫 How to reach me in telegram: @cosm0nastya
 
 My skills:
 <div>
