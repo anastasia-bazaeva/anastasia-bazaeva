@@ -36,13 +36,15 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 <br>
 
 <h3>Мой телеграм: </h3>
 
 <p align="left">
- <a href="https://t.me/cosm0nastya" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  /></a>
+ <a href="https://t.me/cosm0nastya" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/cosm0nastya-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  /></a>
 </p>
 <br>
 <h3>Статистика: </h3>
